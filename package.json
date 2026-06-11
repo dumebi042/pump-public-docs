@@ -1,0 +1,8 @@
+{
+	"name": "pump-public-docs",
+	"private": true,
+	"type": "module",
+	"dependencies": {
+		"@solana/web3.js": "^1.98.2"
+	}
+}
